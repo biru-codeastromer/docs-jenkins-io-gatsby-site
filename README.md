@@ -1,1 +1,0 @@
-# docs-jenkins-io-gatsby-site
